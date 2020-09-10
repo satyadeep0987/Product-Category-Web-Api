@@ -1,0 +1,13 @@
+/bin
+/Properties
+/obj
+*.config
+*.csproj
+*.csproj.user
+*.Context.cs
+*.Context.tt
+*.edmx.diagram
+*.edmx
+*.tt
+*.Designer.cs
+*.asax
